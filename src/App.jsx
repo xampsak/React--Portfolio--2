@@ -24,6 +24,8 @@ function App() {
   return (
 
     <>
+     <div className="overflow-x-hidden">
+  
       <Navbar/> 
       {/* <Whatsapp/> */}
       
@@ -46,7 +48,7 @@ function App() {
       <Customer/>
       <Contact/>
 
-     
+     </div>
     </>
   );
 }
