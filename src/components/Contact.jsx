@@ -42,7 +42,10 @@ function Contact() {
                 </motion.button>
               </form>
             </motion.div>
-            <a href="https://formsubmit.co/el/{talhard5994@gmail.com}/?email=customer@company.com" target="_blank"></a>
+            <a href="mailto:talhard5994@gmail.com" className="text-gray-300 hover:underline">
+  talhard5994@gmail.com
+</a>
+
 
             {/* Right Section - Contact Details */}
             <motion.div
